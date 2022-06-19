@@ -1,4 +1,4 @@
-import { Request, Response } from 'express';
+// import { Request, Response } from 'express';
 import request from 'supertest';
 import { AppController } from './app-controller';
 import { APP_NAME, APP_VERSION } from '../../constants';
